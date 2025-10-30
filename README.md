@@ -24,23 +24,8 @@ I always find ways to add a spark of creativity to everything I do. ✨
 
 ---
 
-## 💖 What I Love Doing
-
-- 🎭 Turning ideas into visuals and stories  
-- 🎬 Designing layouts, posters, and creative content  
-- 💡 Brainstorming unique concepts and aesthetic themes  
-- 🌐 Exploring design in web and digital projects  
-
----
-
-## 🌱 Currently Learning
-
-- Back-end development (Python/Java)
-- UI/UX design best practices  
-- Visual storytelling and animation basics  
-
 ### 🎧 Fun Stuff
-☕ Fueled by coffee & creativity  
+☕ Fueled by creativity  
 🎵 Designs flow better with music  
 😂 Ctrl + Z is my best friend 
 
